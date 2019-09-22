@@ -5,7 +5,7 @@
 ##### 1.) This system is activated every time the system is booted and uses face_recognition to identify whether the person trying to open the machine is you or someone else.
 ##### 2.) If it detects and recognises your face then an audio bot will welcome you and the system will close.
 ###### My face correctly detected (*This is for testing purpose only)
-![](Screenshot%20from%202019-09-22%2014-47-04.png)
+![](Screenshot%20from%202019-09-22%2014-01-07.png)
 
 ##### 3.) Else if the system cannot recognise your face for few seconds then : 
 
